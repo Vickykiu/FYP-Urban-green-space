@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+backend/local.toml
+backend/media/
+backend/staticfiles/
+node_modules/
+frontend/dist/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+
